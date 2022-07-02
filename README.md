@@ -12,4 +12,3 @@ To switch from SS to SSb, scroll down in Counterfactuls.py to "if __name__ == '_
 
 Sensitiviy analysis:
 in BERT_pert.py, in method get_perturbations(), change the parameter "proba_change" of function call of perturb_sentence() to values from "0.1" to "1." to perform sensitivity analysis on the probability of changing a word in x. 
-work
