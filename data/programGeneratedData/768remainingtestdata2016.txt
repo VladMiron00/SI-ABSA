@@ -1,0 +1,75 @@
+$T$ is_577 a_541 must_16 !_188 
+green_6 tea_6 cr_9 ##eme_0 br_9 ##ule_0 ##e_58 
+1
+i_416 ca_20 n_114 '_315 t_139 say_21 enough_17 about_62 this_238 $T$ ._1642 
+place_247 
+1
+the_1235 entire_5 $T$ was_458 extremely_11 acc_5 ##omo_5 ##dating_5 and_925 tended_0 to_380 my_119 every_29 need_11 ._1645 
+staff_92 
+1
+i_417 '_316 ve_54 been_52 to_381 this_239 $T$ over_67 a_542 dozen_0 times_24 with_212 no_51 complaints_1 date_15 ._1646 
+restaurant_126 
+1
+the_1236 $T$ is_578 bell_0 ##iger_0 ##ent_5 to_382 guests_5 that_180 have_135 a_543 complaint_1 ._1647 
+owner_7 
+-1
+i_424 will_34 never_50 forget_1 the_1247 amazing_54 $T$ ,_894 service_311 and_932 am_54 ##bian_12 ##ce_17 experience_17 at_151 this_242 restaurant_129 ._1663 
+meal_31 
+1
+i_425 will_35 never_51 forget_2 the_1248 amazing_55 meal_32 ,_895 $T$ and_933 am_55 ##bian_13 ##ce_18 experience_18 at_152 this_243 restaurant_130 ._1664 
+service_312 
+1
+i_426 will_36 never_52 forget_3 the_1249 amazing_56 meal_33 ,_896 service_313 and_934 $T$ experience_19 at_153 this_244 restaurant_131 ._1665 
+am_56 ##bian_14 ##ce_19 
+1
+it_247 '_317 s_109 *_3 very_153 reasonably_7 priced_24 ,_900 es_7 ##p_6 for_262 the_1254 quality_29 of_347 $T$ ._1670 
+food_501 
+1
+it_248 '_318 s_110 *_4 very_154 reasonably_8 priced_25 ,_901 es_8 ##p_7 for_263 the_1255 quality_30 of_348 $T$ ._1671 
+food_502 
+1
+finally_3 a_547 $T$ that_182 you_196 will_37 remember_7 for_264 long_4 time_41 !_193 
+meal_34 
+1
+i_429 liked_5 the_1260 $T$ very_155 much_29 but_259 food_508 was_468 not_183 worth_32 price_63 ._1678 
+atmosphere_65 
+1
+i_430 liked_6 the_1261 atmosphere_66 very_156 much_30 but_260 $T$ was_469 not_184 worth_33 price_64 ._1679 
+food_509 
+-1
+i_431 liked_7 the_1262 atmosphere_67 very_157 much_31 but_261 $T$ was_470 not_185 worth_34 price_65 ._1680 
+food_510 
+-1
+i_432 may_16 not_186 be_101 a_550 su_72 ##shi_66 guru_0 but_262 can_56 tell_6 you_197 that_185 the_1263 $T$ here_51 is_588 just_61 okay_4 and_943 there_67 much_32 else_7 to_393 it_250 ._1681 
+food_511 
+-1
+furthermore_2 ,_907 while_20 the_1267 $T$ is_591 un_34 ##quest_0 ##ion_4 ##ably_2 fresh_68 rolls_29 tend_1 to_396 be_104 in_248 ##ex_1 ##pl_6 ##ica_0 ##bly_0 bland_22 ._1687 
+fish_49 
+1
+on_111 a_551 recent_3 trip_10 ,_909 our_44 $T$ was_473 extremely_12 dismiss_0 ##ive_6 while_22 no_52 less_4 than_36 three_6 staff_97 members_0 waited_2 hand_5 -_241 and_947 foot_0 pair_0 of_353 japanese_26 girls_0 seated_3 nearby_0 ._1690 
+waiter_43 
+-1
+on_112 a_552 recent_4 trip_11 ,_910 our_45 waiter_44 was_474 extremely_13 dismiss_1 ##ive_7 while_23 no_53 less_5 than_37 three_7 $T$ waited_3 hand_6 -_242 and_948 foot_1 pair_1 of_354 japanese_27 girls_1 seated_4 nearby_1 ._1691 
+staff_98 members_1 
+-1
+they_113 pay_9 such_13 detail_0 to_399 everything_23 from_57 $T$ complex_0 rolls_31 ._1694 
+mis_0 ##o_32 soup_14 
+1
+they_114 pay_10 such_14 detail_1 to_400 everything_24 from_58 mis_1 ##o_33 soup_15 complex_1 $T$ ._1695 
+rolls_32 
+1
+the_1270 $T$ was_475 fresh_72 ##est_8 and_949 most_38 tender_3 i_437 have_140 ever_31 tasted_20 ._1696 
+sash_18 ##imi_19 
+1
+my_129 only_43 negative_1 comment_0 is_605 that_191 i_445 wish_7 the_1302 $T$ were_152 a_562 little_30 bigger_2 ._1730 
+pieces_3 
+-1
+the_1303 $T$ is_606 rustic_0 ,_928 traditional_3 japanese_28 ._1731 
+decor_66 
+0
+the_1304 $T$ is_607 mixed_0 yu_16 ##pp_6 ##ies_2 ,_929 young_1 and_969 old_7 ._1732 
+crowd_3 
+0
+we_142 are_200 locals_1 ,_931 and_974 get_72 the_1310 feeling_5 only_45 way_24 this_253 $T$ survives_3 with_216 such_17 average_37 food_525 is_609 because_21 most_40 customers_7 probably_10 one_54 -_248 time_46 customer_7 tourists_1 ._1738 
+place_262 
+-1
