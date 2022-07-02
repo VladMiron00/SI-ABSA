@@ -106,7 +106,6 @@ def main(train_path, test_path, accuracyOnt, test_size, remaining_size, learning
             x = tf.placeholder(tf.int32, [None, FLAGS.max_sentence_len])
 
             y = tf.placeholder(tf.float32, [None, FLAGS.n_class])
-            # Tensor("inputs/Placeholder_1:0", shape=(?, 3), dtype=float32, device=/device:GPU:1)
 
             sen_len = tf.placeholder(tf.int32, None)
 
@@ -160,7 +159,7 @@ def main(train_path, test_path, accuracyOnt, test_size, remaining_size, learning
         validate_summary_writer = summary_func(loss, acc_prob, test_loss, test_acc, _dir, title, sess)
 
         save_dir = 'trainedModelMaria/' + str(FLAGS.year) + '/'
-        # saver = saver_func(save_dir)  # uncomment to obtain graph of model
+        saver = saver_func(save_dir)  # uncomment to obtain graph of model
 
         sess.run(tf.global_variables_initializer())
         # saver.restore(sess, './')  # /-
@@ -225,7 +224,7 @@ def main(train_path, test_path, accuracyOnt, test_size, remaining_size, learning
                 # embed_update = tf.assign(word_embedding, tf.concat(0, [tf.zeros([1, FLAGS.embedding_dim]), word_embedding[1:]]))
                 # sess.run(embed_update)
                 trainacc += _trainacc
-                # saver.save(sess, save_dir, global_step=step)  # uncomment to obtain graph of model
+                saver.save(sess, save_dir, global_step=step)  # uncomment to obtain graph of model
                 traincnt += numtrain
 
             acc, cost, cnt = 0., 0., 0
