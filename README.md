@@ -1,4 +1,4 @@
-# Sample_And_Interpret_ABSA
+# SI-ABSA
 
 SI-ABSA stands for Sample and Interpret Aspect-Based Sentiment-Analysis, as the sampling
 methods and the interpretability algorithms made for ABSA are the two components we focus
