@@ -2,8 +2,6 @@
 
 SI-ABSA stands for Sample and Interpret Aspect-Based Sentiment-Analysis, as the sampling methods and the interpretability algorithms made for ABSA are the two components we focus on in this paper.
 
-The authors are partially suported by the work of Stefan Lam, Yin Liu, Jasper van der Vos, and Flavius Frasincar. Their work was used to run LIME with SS and LORE with SS. You can find their source code at https://github.com/StefanLam99/Explaining_ABSA.
-
 The steps mentioned to run the HAABSA++ code, https://github.com/mtrusca/HAABSA_PLUS_PLUS, need to be followed. Files which are downloaded and generated when running HAABSA++ and the virtual environment of HAABSA++ are needed to run SI-ABSA.
 
 After downloading SI-ABSA, https://github.com/VladMiron00/SI-ABSA, move all the contents from this project’s “programGeneratedData” folder into the HAABSA++ “programGeneratedData” folder, replacing all the duplicate files from the HAABSA++ folder with the files from SI-ABSA. You can now delete SI-ABSA’s “data” folder and move the entire “data” folder from HAABSA++ into SI-ABSA. Note that the file 768remainingtestdata2016 original.txt corresponds to “remaining test data”, the complete dataset containing 248 sentences. The dataset we used in this paper is the reduced yet similarly balanced “used test data” of 25 instances, found as 768remainingtestdata2016.txt. Inside SI-ABSA’s main folder, create a folder named “trainedModelMaria”. Inside “trainedModelMaria” create another folder named “2016”.
